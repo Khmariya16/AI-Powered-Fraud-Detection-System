@@ -2,8 +2,8 @@
 
 This project implements a machine learning system to detect fraudulent credit card transactions using the "Credit Card Fraud Detection" dataset from Kaggle. It addresses the common challenge of highly imbalanced data in fraud detection scenarios.
 
-![Project Flow Diagram](path/to/your/flow_diagram.jpg)
-*(Replace `path/to/your/flow_diagram.jpg` with the actual path or URL to the flow diagram image in your repository if you've uploaded it.)*
+![Project Flow Diagram]([path/to/your/flow_diagram.jpg](https://www.mermaidchart.com/raw/ab3dd87c-4399-4e3b-a4c8-47685882fd78?theme=light&version=v0.1&format=svg))
+
 
 ## Table of Contents
 1.  [Introduction](#introduction)
